@@ -1,0 +1,14 @@
+C:\Users\Gorav Aman Uday\Documents\Visual Studio 2013\Projects\My Programs\WindowsFormsApplication1\bin\Release\ReceiptCalculator.exe.config
+C:\Users\Gorav Aman Uday\Documents\Visual Studio 2013\Projects\My Programs\WindowsFormsApplication1\bin\Release\ReceiptCalculator.exe.manifest
+C:\Users\Gorav Aman Uday\Documents\Visual Studio 2013\Projects\My Programs\WindowsFormsApplication1\bin\Release\ReceiptCalculator.application
+C:\Users\Gorav Aman Uday\Documents\Visual Studio 2013\Projects\My Programs\WindowsFormsApplication1\bin\Release\ReceiptCalculator.exe
+C:\Users\Gorav Aman Uday\Documents\Visual Studio 2013\Projects\My Programs\WindowsFormsApplication1\bin\Release\ReceiptCalculator.pdb
+C:\Users\Gorav Aman Uday\Documents\Visual Studio 2013\Projects\My Programs\WindowsFormsApplication1\obj\Release\ReceiptCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Gorav Aman Uday\Documents\Visual Studio 2013\Projects\My Programs\WindowsFormsApplication1\obj\Release\ReceiptCalculator.frmReceiptCalculator.resources
+C:\Users\Gorav Aman Uday\Documents\Visual Studio 2013\Projects\My Programs\WindowsFormsApplication1\obj\Release\ReceiptCalculator.Properties.Resources.resources
+C:\Users\Gorav Aman Uday\Documents\Visual Studio 2013\Projects\My Programs\WindowsFormsApplication1\obj\Release\ReceiptCalculator.csproj.GenerateResource.Cache
+C:\Users\Gorav Aman Uday\Documents\Visual Studio 2013\Projects\My Programs\WindowsFormsApplication1\obj\Release\ReceiptCalculator.TrustInfo.xml
+C:\Users\Gorav Aman Uday\Documents\Visual Studio 2013\Projects\My Programs\WindowsFormsApplication1\obj\Release\ReceiptCalculator.exe.manifest
+C:\Users\Gorav Aman Uday\Documents\Visual Studio 2013\Projects\My Programs\WindowsFormsApplication1\obj\Release\ReceiptCalculator.application
+C:\Users\Gorav Aman Uday\Documents\Visual Studio 2013\Projects\My Programs\WindowsFormsApplication1\obj\Release\ReceiptCalculator.exe
+C:\Users\Gorav Aman Uday\Documents\Visual Studio 2013\Projects\My Programs\WindowsFormsApplication1\obj\Release\ReceiptCalculator.pdb

@@ -1,0 +1,6 @@
+C:\Users\Gorav Aman Uday\Google Drive\Documents\Gorav Chhina\Software Engineering\Visual Studio 2013\Projects\My Programs\WindowsFormsApplication1\obj\Debug\ReceiptItemizer.frmReceiptItemizer.resources
+C:\Users\Gorav Aman Uday\Google Drive\Documents\Gorav Chhina\Software Engineering\Visual Studio 2013\Projects\My Programs\WindowsFormsApplication1\obj\Debug\ReceiptCalculator.Properties.Resources.resources
+C:\Users\Gorav Aman Uday\Google Drive\Documents\Gorav Chhina\Software Engineering\Visual Studio 2013\Projects\My Programs\WindowsFormsApplication1\obj\Debug\Receipt Calculator.csproj.GenerateResource.Cache
+C:\Users\Gorav Aman Uday\Google Drive\Documents\Gorav Chhina\Software Engineering\Visual Studio 2013\Projects\My Programs\WindowsFormsApplication1\obj\Debug\ReceiptCalculator.TrustInfo.xml
+C:\Users\Gorav Aman Uday\Google Drive\Documents\Gorav Chhina\Software Engineering\Visual Studio 2013\Projects\My Programs\WindowsFormsApplication1\obj\Debug\ReceiptCalculator.exe
+C:\Users\Gorav Aman Uday\Google Drive\Documents\Gorav Chhina\Software Engineering\Visual Studio 2013\Projects\My Programs\WindowsFormsApplication1\obj\Debug\ReceiptCalculator.pdb

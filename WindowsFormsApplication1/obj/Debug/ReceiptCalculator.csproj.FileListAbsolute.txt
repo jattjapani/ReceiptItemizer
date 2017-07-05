@@ -1,0 +1,14 @@
+C:\Users\Gorav Aman Uday\Documents\Visual Studio 2013\Projects\My Programs\WindowsFormsApplication1\bin\Debug\ReceiptCalculator.exe.config
+C:\Users\Gorav Aman Uday\Documents\Visual Studio 2013\Projects\My Programs\WindowsFormsApplication1\bin\Debug\ReceiptCalculator.exe.manifest
+C:\Users\Gorav Aman Uday\Documents\Visual Studio 2013\Projects\My Programs\WindowsFormsApplication1\bin\Debug\ReceiptCalculator.application
+C:\Users\Gorav Aman Uday\Documents\Visual Studio 2013\Projects\My Programs\WindowsFormsApplication1\bin\Debug\ReceiptCalculator.exe
+C:\Users\Gorav Aman Uday\Documents\Visual Studio 2013\Projects\My Programs\WindowsFormsApplication1\bin\Debug\ReceiptCalculator.pdb
+C:\Users\Gorav Aman Uday\Documents\Visual Studio 2013\Projects\My Programs\WindowsFormsApplication1\obj\Debug\ReceiptCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Gorav Aman Uday\Documents\Visual Studio 2013\Projects\My Programs\WindowsFormsApplication1\obj\Debug\ReceiptCalculator.frmReceiptCalculator.resources
+C:\Users\Gorav Aman Uday\Documents\Visual Studio 2013\Projects\My Programs\WindowsFormsApplication1\obj\Debug\ReceiptCalculator.Properties.Resources.resources
+C:\Users\Gorav Aman Uday\Documents\Visual Studio 2013\Projects\My Programs\WindowsFormsApplication1\obj\Debug\ReceiptCalculator.csproj.GenerateResource.Cache
+C:\Users\Gorav Aman Uday\Documents\Visual Studio 2013\Projects\My Programs\WindowsFormsApplication1\obj\Debug\ReceiptCalculator.TrustInfo.xml
+C:\Users\Gorav Aman Uday\Documents\Visual Studio 2013\Projects\My Programs\WindowsFormsApplication1\obj\Debug\ReceiptCalculator.exe.manifest
+C:\Users\Gorav Aman Uday\Documents\Visual Studio 2013\Projects\My Programs\WindowsFormsApplication1\obj\Debug\ReceiptCalculator.application
+C:\Users\Gorav Aman Uday\Documents\Visual Studio 2013\Projects\My Programs\WindowsFormsApplication1\obj\Debug\ReceiptCalculator.exe
+C:\Users\Gorav Aman Uday\Documents\Visual Studio 2013\Projects\My Programs\WindowsFormsApplication1\obj\Debug\ReceiptCalculator.pdb
